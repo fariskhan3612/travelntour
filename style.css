@@ -549,16 +549,6 @@ header .search-bar-container label:hover{
     width: 100%;
 }
 
-.brand-container{
-    text-align: center;
-}
-
-.brand-container img{
-    width: 20rem;
-    height: 20rem;
-    object-fit: cover;
-}
-
 .footer{
     background: #333;
 }
